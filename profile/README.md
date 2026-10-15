@@ -4,7 +4,7 @@
 
 ### Building Modern Software Solutions for Businesses & Developers
 
-[Website](https://haryanvideveloper.tech) • [GitHub](https://github.com/HaryanviDeveloper)
+[Website](https://haryanvideveloper.com) • [GitHub](https://github.com/HaryanviDeveloper)
 
 </div>
 
