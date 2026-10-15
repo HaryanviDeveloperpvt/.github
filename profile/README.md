@@ -99,9 +99,9 @@ We believe in contributing to the open-source community by sharing useful projec
 
 ## 📫 Contact
 
-🌐 Website: https://haryanvideveloper.tech
+🌐 Website: https://haryanvideveloper.com
 
-📧 Email: info@haryanvideveloper.tech
+📧 Email: info@haryanvideveloper.com
 
 ---
 
